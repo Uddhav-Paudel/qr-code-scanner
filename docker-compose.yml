@@ -1,8 +1,8 @@
 services:
   qrcs:
     build:
-      context: /src
-      dockerfile: ./Dockerfile
+      context: .
+      dockerfile: ./src/Dockerfile
     container_name: QRCSV1
     ports:
       - '4175:4175'
