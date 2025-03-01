@@ -18,6 +18,20 @@ export default defineConfig({
         name: 'QRCS',
         short_name: 'QRCS',
         theme_color: '#ffffff',
+        orientation: 'portrait',
+        display: 'standalone',
+        start_url: '/',
+        scope: '/',
+        background_color: '#ffffff',
+        description: 'QR Code Scanner',
+        launch_handler: true,
+        screenshots: [
+          {
+            src: '/screenshot-1.png',
+            sizes: '1280x720',
+            type: 'image/png',
+          },
+        ],
         icons: [
           {
             src: '/android-chrome-192x192.png',
