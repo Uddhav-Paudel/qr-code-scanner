@@ -1,6 +1,4 @@
-# QR Code Scanner PWA – Built with Vue 3, Tailwind, and Modern Tools  
-
-I am excited to share the release of a **Progressive Web Application (PWA)** that demonstrates the use of **Vue 3, Tailwind, Vite, Jenkins CI/CD, Docker**, and more.  
+**Progressive Web Application (PWA)** that demonstrates the use of **Vue 3, Tailwind, Vite, Jenkins CI/CD, Docker**, and more.  
 
 This project utilizes the **vue-qrcode-reader** plugin, making it a simple and effective QR code scanner tool. A special thanks to **Niklas Gruhn** for the library.  
 
